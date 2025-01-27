@@ -844,231 +844,267 @@ int main(){
 //- **PIB**
 //- **Número de pontos turísticos")
 
-printf("A01\n%s\n", estadoA01);
+printf("A01-%s\n", estadoA01);
 printf("População: %lf\n", pA01);
 printf("Área: %lf\n", aA01);
 printf("PIB: %lf\n", pibA01);
 printf("Pontos Turísticos: %d\n", tA01);
+printf("-----------------------------\n");
 
 
-printf("A02\n%s\n", estadoA02);
+printf("A02-%s\n", estadoA02);
 printf("População: %lf\n", pA02);
 printf("Área: %lf\n", aA02);
 printf("PIB: %lf\n", pibA02);
 printf("Pontos Turísticos: %d\n", tA02);
+printf("-----------------------------\n");
 
-printf("A03\n%s\n", estadoA03);
+
+printf("A03-%s\n", estadoA03);
 printf("População: %lf\n", pA03);
 printf("Área: %lf\n", aA03);
 printf("PIB: %lf\n", pibA03);
 printf("Pontos Turísticos: %d\n", tA03);
+printf("-----------------------------\n");
 
-printf("A03\n%s\n", estadoA03);
+
+printf("A03-%s\n", estadoA03);
 printf("População: %lf\n", pA03);
 printf("Área: %lf\n", aA03);
 printf("PIB: %lf\n", pibA03);
 printf("Pontos Turísticos: %d\n", tA03);
+printf("-----------------------------\n");
 
 
-printf("A04\n%s\n", estadoA04);
+printf("A04-%s\n", estadoA04);
 printf("População: %lf\n", pA04);
 printf("Área: %lf\n", aA04);
 printf("PIB: %lf\n", pibA04);
 printf("Pontos Turísticos: %d\n", tA04);
+printf("-----------------------------\n");
 
-printf("B01\n%s\n", estadoB01);
+
+printf("B01-%s\n", estadoB01);
 printf("População: %lf\n", pB01);
 printf("Área: %lf\n", aB01);
 printf("PIB: %lf\n", pibB01);
 printf("Pontos Turísticos: %d\n", tB01);
+printf("-----------------------------\n");
 
 
-printf("B02\n%s\n", estadoB02);
+printf("B02-%s\n", estadoB02);
 printf("População: %lf\n", pB02);
 printf("Área: %lf\n", aB02);
 printf("PIB: %lf\n", pibB02);
 printf("Pontos Turísticos: %d\n", tB02);
+printf("-----------------------------\n");
 
 
-printf("B03\n%s\n", estadoB03);
+printf("B03-%s\n", estadoB03);
 printf("População: %lf\n", pB03);
 printf("Área: %lf\n", aB03);
 printf("PIB: %lf\n", pibB03);
 printf("Pontos Turísticos: %d\n", tB03);
+printf("-----------------------------\n");
 
 
-printf("B04\n%s\n", estadoB04);
+printf("B04-%s\n", estadoB04);
 printf("População: %lf\n", pB04);
 printf("Área: %lf\n", aB04);
 printf("PIB: %lf\n", pibB04);
 printf("Pontos Turísticos: %d\n", tB04);
+printf("-----------------------------\n");
 
 
-printf("C01\n%s\n", estadoC01);
+printf("C01-%s\n", estadoC01);
 printf("População: %lf\n", pC01);
 printf("Área: %lf\n", aC01);
 printf("PIB: %lf\n", pibC01);
 printf("Pontos Turísticos: %d\n", tC01);
+printf("-----------------------------\n");
 
 
-printf("C02\n%s\n", estadoC02);
+printf("C02-%s\n", estadoC02);
 printf("População: %lf\n", pC02);
 printf("Área: %lf\n", aC02);
 printf("PIB: %lf\n", pibC02);
 printf("Pontos Turísticos: %d\n", tC02);
+printf("-----------------------------\n");
 
 
-printf("C03\n%s\n", estadoC03);
+printf("C03-%s\n", estadoC03);
 printf("População: %lf\n", pC03);
 printf("Área: %lf\n", aC03);
 printf("PIB: %lf\n", pibC03);
 printf("Pontos Turísticos: %d\n", tC03);
+printf("-----------------------------\n");
 
 
-printf("C04\n%s\n", estadoC04);
+printf("C04-%s\n", estadoC04);
 printf("População: %lf\n", pC04);
 printf("Área: %lf\n", aC04);
 printf("PIB: %lf\n", pibC04);
 printf("Pontos Turísticos: %d\n", tC04);
+printf("-----------------------------\n");
 
 
-printf("D01\n%s\n", estadoD01);
+printf("D01-%s\n", estadoD01);
 printf("População: %lf\n", pD01);
 printf("Área: %lf\n", aD01);
 printf("PIB: %lf\n", pibD01);
 printf("Pontos Turísticos: %d\n", tD01);
+printf("-----------------------------\n");
 
 
-printf("D02\n%s\n", estadoD02);
+printf("D02-%s\n", estadoD02);
 printf("População: %lf\n", pD02);
 printf("Área: %lf\n", aD02);
 printf("PIB: %lf\n", pibD02);
 printf("Pontos Turísticos: %d\n", tD02);
+printf("-----------------------------\n");
 
 
-printf("D03\n%s\n", estadoD03);
+printf("D03-%s\n", estadoD03);
 printf("População: %lf\n", pD03);
 printf("Área: %lf\n", aD03);
 printf("PIB: %lf\n", pibD03);
 printf("Pontos Turísticos: %d\n", tD03);
+printf("-----------------------------\n");
 
 
-printf("D01\n%s\n", estadoD04);
+printf("D01-%s\n", estadoD04);
 printf("População: %lf\n", pD04);
 printf("Área: %lf\n", aD04);
 printf("PIB: %lf\n", pibD04);
 printf("Pontos Turísticos: %d\n", tD04);
+printf("-----------------------------\n");
 
 
-printf("E01\n%s\n", estadoE01);
+printf("E01-%s\n", estadoE01);
 printf("População: %lf\n", pE01);
 printf("Área: %lf\n", aE01);
 printf("PIB: %lf\n", pibE01);
 printf("Pontos Turísticos: %d\n", tE01);
+printf("-----------------------------\n");
 
 
-printf("E02\n%s\n", estadoE02);
+printf("E02-%s\n", estadoE02);
 printf("População: %lf\n", pE02);
 printf("Área: %lf\n", aE02);
 printf("PIB: %lf\n", pibE02);
 printf("Pontos Turísticos: %d\n", tE02);
+printf("-----------------------------\n");
 
 
-printf("E03\n%s\n", estadoE03);
+printf("E03-%s\n", estadoE03);
 printf("População: %lf\n", pE03);
 printf("Área: %lf\n", aE03);
 printf("PIB: %lf\n", pibE03);
 printf("Pontos Turísticos: %d\n", tE03);
+printf("-----------------------------\n");
 
 
-printf("E04\n%s\n", estadoE04);
+printf("E04-%s\n", estadoE04);
 printf("População: %lf\n", pE04);
 printf("Área: %lf\n", aE04);
 printf("PIB: %lf\n", pibE04);
 printf("Pontos Turísticos: %d\n", tE04);
+printf("-----------------------------\n");
 
 
-printf("F01\n%s\n", estadoF01);
+printf("F01-%s\n", estadoF01);
 printf("População: %lf\n", pF01);
 printf("Área: %lf\n", aF01);
 printf("PIB: %lf\n", pibF01);
 printf("Pontos Turísticos: %d\n", tF01);
+printf("-----------------------------\n");
 
-printf("F02\n%s\n", estadoF02);
+printf("F02-%s\n", estadoF02);
 printf("População: %lf\n", pF02);
 printf("Área: %lf\n", aF02);
 printf("PIB: %lf\n", pibF02);
 printf("Pontos Turísticos: %d\n", tF02);
+printf("-----------------------------\n");
 
 
-printf("F03\n%s\n", estadoF03);
+printf("F03-%s\n", estadoF03);
 printf("População: %lf\n", pF03);
 printf("Área: %lf\n", aF03);
 printf("PIB: %lf\n", pibF03);
 printf("Pontos Turísticos: %d\n", tF03);
+printf("-----------------------------\n");
 
 
-printf("F04\n%s\n", estadoF04);
+printf("F04-%s\n", estadoF04);
 printf("População: %lf\n", pF04);
 printf("Área: %lf\n", aF04);
 printf("PIB: %lf\n", pibF04);
 printf("Pontos Turísticos: %d\n", tF04);
+printf("-----------------------------\n");
 
 
-printf("G01\n%s\n", estadoG01);
+printf("G01-%s\n", estadoG01);
 printf("População: %lf\n", pG01);
 printf("Área: %lf\n", aG01);
 printf("PIB: %lf\n", pibG01);
 printf("Pontos Turísticos: %d\n", tG01);
+printf("-----------------------------\n");
 
 
-printf("G02\n%s\n", estadoG02);
+printf("G02-%s\n", estadoG02);
 printf("População: %lf\n", pG02);
 printf("Área: %lf\n", aG02);
 printf("PIB: %lf\n", pibG02);
 printf("Pontos Turísticos: %d\n", tG02);
+printf("-----------------------------\n");
 
 
-printf("G03\n%s\n", estadoG03);
+printf("G03-%s\n", estadoG03);
 printf("População: %lf\n", pG03);
 printf("Área: %lf\n", aG03);
 printf("PIB: %lf\n", pibG03);
 printf("Pontos Turísticos: %d\n", tG03);
+printf("-----------------------------\n");
 
 
-printf("G04\n%s\n", estadoG04);
+printf("G04-%s\n", estadoG04);
 printf("População: %lf\n", pG04);
 printf("Área: %lf\n", aG04);
 printf("PIB: %lf\n", pibG04);
 printf("Pontos Turísticos: %d\n", tG04);
+printf("-----------------------------\n");
 
 
-printf("H01\n%s\n", estadoH01);
+printf("H01-%s\n", estadoH01);
 printf("População: %lf\n", pH01);
 printf("Área: %lf\n", aH01);
 printf("PIB: %lf\n", pibH01);
 printf("Pontos Turísticos: %d\n", tH01);
+printf("-----------------------------\n");
 
 
-printf("H02\n%s\n", estadoH02);
+printf("H02-%s\n", estadoH02);
 printf("População: %lf\n", pH02);
 printf("Área: %lf\n", aH02);
 printf("PIB: %lf\n", pibH02);
 printf("Pontos Turísticos: %d\n", tH02);
+printf("-----------------------------\n");
 
 
-printf("H03\n%s\n", estadoH03);
+printf("H03-%s\n", estadoH03);
 printf("População: %lf\n", pH03);
 printf("Área: %lf\n", aH03);
 printf("PIB: %lf\n", pibH03);
 printf("Pontos Turísticos: %d\n", tH03);
+printf("-----------------------------\n");
 
 
-printf("H04\n%s\n", estadoH04);
+printf("H04-%s\n", estadoH04);
 printf("População: %lf\n", pH04);
 printf("Área: %lf\n", aH04);
 printf("PIB: %lf\n", pibH04);
 printf("Pontos Turísticos: %d\n", tH04);
+printf("-----------------------------\n");
 
 return 0;
 }
